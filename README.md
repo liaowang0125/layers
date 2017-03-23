@@ -1,6 +1,6 @@
-#layers
+# layers
 You need to install [caffe](https://github.com/BVLC/caffe) or [caffe-windows](https://github.com/microsoft/caffe)。
-###bn_layer is used for person-reID task<br>
+### bn_layer is used for person-reID task<br>
 
 ```cpp
 export CAFFE_HOME=/path/to/caffe
